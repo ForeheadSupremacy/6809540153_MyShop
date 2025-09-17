@@ -1,0 +1,102 @@
+.press-start-2p-regular {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+u {
+    text-decoration-thickness: 4px;
+}
+
+body {
+    background-color:thistle;
+    font-family: "Press Start 2P";
+}
+
+div {
+    color: white;
+    text-align: center;
+    background-color:rebeccapurple;
+    padding: 1px;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 52px;
+}
+
+p {
+    line-height: 32px;
+    padding-left: 32px;
+    font-size: 16px;
+}
+
+#subh {
+    padding-left: unset;
+}
+
+.logo {
+    block-size: 128px;
+}
+
+#indie {
+    color: gold;
+}
+
+.det {
+    line-height: 48px;
+    padding-left: 32px;
+    padding-top: 32px;
+    font-size: 24px;
+    text-decoration-thickness: 4px;
+    text-decoration-line: underline;
+}
+
+.det2 {
+    line-height: 48px;
+    font-size: 16px;
+    text-decoration-thickness: 3px;
+    text-decoration-line: underline;
+}
+
+img {
+    block-size: 256px;
+    padding: 16px;
+}
+
+hr {
+    margin-top: 32px;
+    border-style: solid;
+    color: black;
+    height: 3px;
+    background-color: black;
+}
+
+th, td {
+    border: solid black;
+    line-height: 32px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.des {
+    padding: 32px;
+}
+
+table {
+    margin: 32px;
+    margin-top: unset;
+}
+
+h3 {
+    padding-left: 80px;
+}
+
+ul {
+    text-align: left;
+}
+
+video {
+    padding: 32px;
+    block-size: 512px;
+}
